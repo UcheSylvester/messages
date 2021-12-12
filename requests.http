@@ -11,3 +11,4 @@ content-type: application/json
 
 ### Get a single message
 GET http://localhost:3000/messages/120
+
